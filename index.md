@@ -1,7 +1,6 @@
 ## Home
 
-The first ever Roblox Mod Maker was started on — 07/03/2021 — By cornholio11111, The Mod Maker was originally for [BMX Legends](https://www.roblox.com/games/6004165226) after awhile we thought more developers would love a in-game mod system.
-
+The first ever Roblox Mod Maker was started on — 07/03/2021 — By cornholio11111, The Mod Maker was originally for a solo game then thinking about it why don't i make it open-sourced.
 
 # Docs
 
