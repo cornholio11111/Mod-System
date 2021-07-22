@@ -20,3 +20,21 @@ local ModTypes = {
 }
 return ModTypes
 ```
+
+Adding Staff/Admins To View Mods (Found In ReplicatedScriptService "StaffAdmin")
+```lua
+local StaffAdmin = {"PlayerName","PlayerName","PlayerName"}
+
+return StaffAdmin
+```
+
+Whitelist Certain Players To Make Mods (Found In ReplicatedScriptService "ModMakingPerms")
+```lua
+local ModMakingPerms = {
+	NeedPermsToMakeMods = false,
+	Perms = {"PlayerName","PlayerName","PlayerName"}
+}
+return ModMakingPerms
+```
+
+
