@@ -3,3 +3,7 @@
 ## cornholio11111_Dev
 
 ##### Discord: cornholio11111 | Scripter#6948
+
+## EternalEthel
+
+##### EternalEthel#0777
