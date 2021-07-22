@@ -1,4 +1,4 @@
 ## Home
 
 # Docs
-<a href="#" class="button big">View documentation</a>
+[View documentation](https://tonyconine.github.io/Mod-System/Documentation)
