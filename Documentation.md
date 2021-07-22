@@ -10,7 +10,7 @@ local KeyHandler = {
 return KeyHandler
 ```
 
-Enabling/Disabling Mod Type's (Found In ReplicatedScriptService "KeyHandler")
+Enabling/Disabling Mod Type's (Found In ReplicatedScriptService "ModTypes")
 ```lua
 local ModTypes = {
 	Textures = true,
