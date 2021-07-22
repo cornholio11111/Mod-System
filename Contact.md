@@ -6,4 +6,4 @@
 
 ## EternalEthel
 
-##### EternalEthel#0777
+##### Discord: EternalEthel#0777
