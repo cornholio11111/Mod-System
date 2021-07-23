@@ -7,3 +7,9 @@
 ## EternalEthel
 
 ##### Discord: EternalEthel#0777
+
+## Fries
+
+
+##### Discord: Fries#2612
+##### Portfolio - [Title](link.com)
