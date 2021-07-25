@@ -4,7 +4,7 @@
 Linking To API & Http (Found In ReplicatedScriptService "KeyHandler")
 ```lua
 local KeyHandler = {
-	APIKey = "ApiKey",
+	PasteBinKey = "ApiKey",
 	WebHookHttp = "WebHook"
 }
 return KeyHandler
