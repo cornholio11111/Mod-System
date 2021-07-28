@@ -14,3 +14,5 @@ The first ever Roblox Mod Maker was started on — 07/03/2021 — By cornholio11
 # Contact Info
 
 [Contact Info](https://cornholio11111.github.io/Mod-System/Contact)
+
+ <link rel="icon" type="image/png" href="https://cdn.discordapp.com/icons/865837551813263380/50eacb430487b072ab653a5ead7bdd8c.png?size=256" />
