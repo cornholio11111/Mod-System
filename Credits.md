@@ -1,5 +1,6 @@
-## Credits
+<link rel="icon" type="image/png" href="https://i.ibb.co/RcDh0nB/50eacb430487b072ab653a5ead7bdd8c.png" />
 
+## Credits
 
 ### Idea Manager/Building System - [EternalEthel](https://www.roblox.com/users/765156160)
 
