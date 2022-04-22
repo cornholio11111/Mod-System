@@ -1,6 +1,6 @@
 ## Home
 
-The first ever Roblox Mod Maker was started on — 07/03/2021 — By cornholio11111, The Mod Maker was originally for a solo game then thinking about it why don't i make it open-sourced.
+The first ever Roblox Mod Maker was started on — 07/03/2021, By cornholio11111, The Mod Maker was originally for a single game knowing this could be game changing for the Roblox platform, WE ARE RELEASEING!
 
 # Docs
 
